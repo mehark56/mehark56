@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mehark56
+- 👋 Hi!, I’m Mehar Kulkarni
 - 👀 I’m interested in Cyber Security, Artificial Intelligence and Machine Learning
 
 
